@@ -253,7 +253,7 @@ export const products: Product[] = [
     color: 'from-purple-400 to-pink-500',
     prices: [
       { duration: '1 ans', price: '3500 DA' },
-      { duration: '2 ans', price: 'Contact Us' }
+      { duration: '2 ans', price: '6500 DA' }
     ],
     features: ['Unlimited projects', 'Team libraries', 'Advanced prototyping', 'Dev mode'],
     forWho: 'UI/UX Designers, Product Teams'
