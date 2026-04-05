@@ -266,7 +266,7 @@ export const products: Product[] = [
     icon: 'Package',
     color: 'from-amber-400 to-orange-500',
     prices: [
-      { duration: 'Lifetime Access', price: 'Contact Us' }
+      { duration: 'Lifetime Access', price: '4900 DA' }
     ],
     features: [
       '90 Landing Pages', 
