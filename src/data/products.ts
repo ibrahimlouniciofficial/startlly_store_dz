@@ -122,7 +122,7 @@ export const products: Product[] = [
     id: 'filmora',
     name: 'Filmora',
     category: 'Design & Creative',
-    image: 'https://images.unsplash.com/photo-1536240478700-b869070f9279?q=80&w=800&auto=format&fit=crop',
+    image: '/images/filmora.png',
     icon: 'Film',
     color: 'from-teal-400 to-emerald-500',
     prices: [
